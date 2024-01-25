@@ -1,7 +1,7 @@
 # Digital-Image
 
 ## Content
-
+~~~
 * Monadic Operation
 * Fourier Transform and Sampling Theorem
 * Convolution : Convolution usinf Fourier Transform, Sperable Kernel, Mip Mapping, Integral Image
@@ -11,6 +11,6 @@
 * Image Deformation : Translation, Rotation, Scaling, Skew, Affine and Projective transformations, N-point deformation
 * Image Registration : Translation, Rotation, Scaling using Fourier-Mellin, N-Point
 * Image segmentation : Using Maximum Flow and Random Walk
-
 ~~~
+- - - - 
 Do not copy the code, but rather try to understand it and implement it yourself.
