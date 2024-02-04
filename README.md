@@ -4,7 +4,7 @@
 ~~~
 * Monadic Operation
 * Fourier Transform and Sampling Theorem
-* Convolution : Convolution usinf Fourier Transform, Sperable Kernel, Mip Mapping, Integral Image
+* Convolution : Convolution using Fourier Transform, Sperable Kernel, Mip Mapping, Integral Image
 * Linear Filtering : Noise Suppression, Edge Detection, Blur, Sharpening, Wiener Filter, Anti-aliasing
 * Non-linear Filtering : Bilateral Filter, Fast Computation using Piecewise-linear, Bilateral Grid, Box Kenrel
 * Image Editing : Gradient Domain, Image Stiching, Seamless Cloning, HDR
